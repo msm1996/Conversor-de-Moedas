@@ -29,6 +29,6 @@
   <br/>
   📸 Imagem do projeto:
   <br/>
-  <img src="<img width="909" height="672" alt="Captura de tela 2025-07-19 194520" src="https://github.com/user-attachments/assets/9a0eaaf7-3238-4133-a063-bbc079e9aff7" />
-"/>
+  <img src="https://github.com/msm1996/Conversor-de-Moedas/blob/main/Captura%20de%20tela%202025-07-19%20194520.png?raw=true" />
+
   
