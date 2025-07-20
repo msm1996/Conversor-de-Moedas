@@ -2,7 +2,7 @@
 <h2>Conversor de moedas desenvolvido com HTML, CSS e JavaScript. Permite converter valores entre diferentes moedas (como Real, Dólar e Euro) de forma simples e dinâmica.<h2/>
 <br/>
 🧠 O que aprendi:
-<br/>
+<br>
 <br/>
 - Manipulação do DOM
   <br/>
@@ -15,9 +15,8 @@
   <br/>
   <br/>
 🚀 Tecnologias utilizadas:
- <br/>
- <br/>
- <br/>
+  <br>
+  <br>
 - <a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
   <br/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
