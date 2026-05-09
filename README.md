@@ -1,22 +1,46 @@
 <h1>🪙 Conversor de Moedas:<h1/>
   
-<h2>Conversor de moedas desenvolvido com HTML, CSS e JavaScript. Permite converter valores entre diferentes moedas (como Real, Dólar e Euro) de forma simples e dinâmica.<h2/>
-<h2>🚀 Tecnologias utilizadas:</h2>
-<a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  
-<h2>🧠 O que aprendi:<h2/>
+<h2>Projeto de conversor de moedas desenvolvido com HTML, CSS e JavaScript.
+O sistema permite converter valores entre diferentes moedas de forma dinâmica e intuitiva, oferecendo uma experiência simples e responsiva ao usuário.
+</h2>
+
+<br>
+
+<h1>🛠 Tecnologias utilizadas</h1>
+<h2>- HTML5
+  <br>
+- CSS3
+  <br>
+- JavaScript</h2>
+
+<br>
+
+<h1>✨ Funcionalidades:<h1/>
+<h2>- Conversão de moedas em tempo real
+  <br>
+- Interface simples e intuitiva
+  <br>
+- Atualização dinâmica dos valores
+  <br>
+- Layout responsivo
+  <br>
+- Manipulação do DOM com JavaScri</h2>
+
+<br>
+
+<h1>🧠 Aprendizados</h1>
+
+<h2>Neste projeto pratiquei:
+
 - Manipulação do DOM
-  <br/>
-- Lógica de programação com eventos
-  <br/>
-- Conversões matemáticas com JavaScript
-  <br/>
-- Estruturação e estilização com HTML e CSS
-  <br/>
-  <br/>
-  <br/>
+- Eventos no JavaScript
+- Lógica de programação
+- Conversões matemáticas
+- Estruturação de páginas HTML
+- Estilização com CSS
+- Organização de projeto front-end</h2>
+
+
 
   <h2>📸 Imagem do projeto:<h2/>
   <br/>
