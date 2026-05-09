@@ -44,10 +44,7 @@ O sistema permite converter valores entre diferentes moedas de forma dinâmica e
 
   <h2>📸 Imagem do projeto:<h2/>
     <img src="https://github.com/msm1996/Conversor-de-Moedas/blob/main/Captura%20de%20tela%202025-10-28%20130850.png?raw=true">
-  <br/>
-  <br/>
+  
  
-    
-  <a>✍ Feito por: [Myke Santana Martins.](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
   
