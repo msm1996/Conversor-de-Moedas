@@ -1,6 +1,7 @@
 <h1>🪙 Conversor de Moedas:<h1/>
   
 <h2>Projeto de conversor de moedas desenvolvido com HTML, CSS e JavaScript.
+  
 O sistema permite converter valores entre diferentes moedas de forma dinâmica e intuitiva, oferecendo uma experiência simples e responsiva ao usuário.
 </h2>
 
